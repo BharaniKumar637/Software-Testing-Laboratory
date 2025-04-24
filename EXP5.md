@@ -15,6 +15,8 @@ Write a python program to check the number is Armstrong number or not and inspec
 
 ### Program:
 
+![5 exp pr](https://github.com/user-attachments/assets/9403d7ce-0163-4a01-bff4-433595d34417)
+
 
 
 
@@ -28,6 +30,8 @@ Write a python program to check the number is Armstrong number or not and inspec
 
 
 ### Output:
+![5 exp ot](https://github.com/user-attachments/assets/b45045d2-3425-40d7-baba-dd67b698e04a)
+
 
 
 
