@@ -1,6 +1,6 @@
 # Ex.No: 4 check the given number is Armstrong number or not and inspect for failures.
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE:     24/04/25                                                                       
+### REGISTER NUMBER : 212224240024
 ### AIM: 
 Write a python program to check the number is Armstrong number or not and inspect for failures.
 
@@ -16,6 +16,8 @@ Write a python program to check the number is Armstrong number or not and inspec
 9.	Stop the program.
 
 ### Program:
+![4 exp](https://github.com/user-attachments/assets/4be6559f-3357-4bd1-ae3f-4ac206e4776c)
+
 
 
 
@@ -30,6 +32,8 @@ Write a python program to check the number is Armstrong number or not and inspec
 
 
 ### Output:
+![4 exp ot](https://github.com/user-attachments/assets/a7e2c43b-2409-4605-8a9a-0469cd65256c)
+
 
 
 
